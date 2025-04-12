@@ -1,16 +1,16 @@
 Algoritmo "AreaLosango"
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
   DMaior, DMenor, area : real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-   Escreval("calculadora da área do losango regular")
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
+   Escreval("calculadora da Ã¡rea do losango regular")
    Escreval("")
    Escreva("Digite o valor da diagonal maior do seu losango regular: ")
    Leia (DMaior)
    Escreva("Digite o valor da diagonal menor do seu losango regular: ")
    Leia (DMenor)
    area <- ( DMaior * DMenor) / 2
-   Escreva("O valor da área do losango é: ", area)
+   Escreva("O valor da Ã¡rea do losango Ã©: ", area)
 Fimalgoritmo
